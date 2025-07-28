@@ -1,5 +1,3 @@
-# project-1,chatbot
-
 # 0.create the remote 
 # 1. Navigate to your project directory
 cd path/to/your/project
@@ -15,6 +13,6 @@ git commit -m "Initial commit"
 # 6. Rename the branch to 'main' (GitHub default)
 git branch -M main
 # 7. Add the remote repository (replace URL with your actual repo)
-git remote add origin https://github.com/YusefHaisam57/project-1-chatbot.git
+git remote add origin https://github.com/mahmoudelwaleed/chatbot_nti.git
 # 8. Push the code to GitHub
 git push -u origin main
